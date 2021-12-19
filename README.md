@@ -1,2 +1,2 @@
-# mathematica_learning
+# Learning Mathematica
 Mathematica Learning
