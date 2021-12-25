@@ -1516,7 +1516,150 @@ Graphics3DBox[{{{SphereBox[{1,1,1},0.5`]}},{{SphereBox[{2,1,1},0.5`]},{SphereBox
 0.5`]},{SphereBox[{10,10,1},0.5`],SphereBox[{10,10,2},0.5`],SphereBox[{10,10,3},0.5`],SphereBox[
 {10,10,4},0.5`],SphereBox[{10,10,5},0.5`],SphereBox[{10,10,6},0.5`],SphereBox[{10,10,7},
 0.5`],SphereBox[{10,10,8},0.5`],SphereBox[{10,10,9},0.5`],SphereBox[{10,10,10},0.5`]}}},
-Boxed -> False],StandardForm],"Output",CellLabel -> "Out[37]= ",ExpressionUUID -> "9671dffb-bbba-4290-b71a-3a84009d41ed"]},
-Open],ExpressionUUID -> "e83d2e41-acf2-45d0-8590-ff1b809820e2"]},Open],ExpressionUUID -> "cc4af100-5ee2-4ab6-b55f-e88fa78c2705"]},
+Boxed -> False,ExpressionUUID -> "840144b6-1609-4411-8c99-baccbdbfbeee"],StandardForm],
+"Output",CellLabel -> "Out[37]= ",ExpressionUUID -> "9671dffb-bbba-4290-b71a-3a84009d41ed"]},
+Open],ExpressionUUID -> "e83d2e41-acf2-45d0-8590-ff1b809820e2"]},Open],ExpressionUUID -> "cc4af100-5ee2-4ab6-b55f-e88fa78c2705"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"Real","-","World"," ","Data"}],"Section",ExpressionUUID -> "5eff23e2-c9bc-4c86-aaa1-3d2232deaeb6"],Cell[
+CellGroupData[
+{Cell[
+BoxData[NamespaceBox["LinguisticAssistant",DynamicModuleBox[{Set[Typeset`query$$,
+"USA"],Set[Typeset`boxes$$,TemplateBox[{"\"United States\"",RowBox[{"Entity","[",RowBox[
+{"\"Country\"",",","\"UnitedStates\""}],"]"}],"\"Entity[\\\"Country\\\", \\\"UnitedStates\\\"]\"","\"country\""},
+"Entity"]],Set[Typeset`allassumptions$$,{{"type" -> "Clash","word" -> "USA","template" -> "Assuming \"USA\" is a country${separator}Use as ${desc} instead","count" -> "2","pulldown" -> "false","default" -> "{\"C\", \"USA\"} -> {\"Country\", \"dflt\"}","Values" -> {{"name" -> "Country","desc" -> "a country","input" -> "{\"C\", \"USA\"} -> {\"Country\"}"},{"name" -> "FileFormat","desc" -> "a file format","input" -> "{\"C\", \"USA\"} -> {\"FileFormat\"}"}}}}],Set[
+Typeset`assumptions$$,{}],Set[Typeset`open$$,{1,2}],Set[Typeset`querystate$$,{}]},
+DynamicBox[ToBoxes[AlphaIntegration`LinguisticAssistantBoxes["",4,Automatic,Dynamic[
+Typeset`query$$],Dynamic[Typeset`boxes$$],Dynamic[Typeset`allassumptions$$],Dynamic[
+Typeset`assumptions$$],Dynamic[Typeset`open$$],Dynamic[Typeset`querystate$$]],StandardForm],
+RuleDelayed[TrackedSymbols,{Typeset`query$$,Typeset`boxes$$,Typeset`allassumptions$$,Typeset`assumptions$$,Typeset`open$$,Typeset`querystate$$}]],
+RuleDelayed[UndoTrackedVariables,{Typeset`open$$}],ExpressionUUID -> "7fcfa148-80d2-4ecc-93e1-f6fb33ccb5b4"],
+BaseStyle -> {"Deploy"},DeleteWithContents -> True,Editable -> False,SelectWithContents -> True]],
+"Input",CellLabel -> "In[1]:= ",ExpressionUUID -> "95024033-6f5a-457d-9083-7e67c8129668"],Cell[
+BoxData[
+TemplateBox[{"\"United States\"",RowBox[{"Entity","[",RowBox[{"\"Country\"",",","\"UnitedStates\""}],"]"}],"\"Entity[\\\"Country\\\", \\\"UnitedStates\\\"]\"","\"country\""},
+"Entity"],StandardForm],"Output",CellLabel -> "Out[1]= ",ExpressionUUID -> "f71afe38-d27b-4d05-b1e2-d5084bc01d2c"]},
+Open],ExpressionUUID -> "48fec9c0-37e2-469f-adbc-7e7af8f2d771"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"InputForm","[",NamespaceBox["LinguisticAssistant",DynamicModuleBox[
+{Set[Typeset`query$$,"USA"],Set[Typeset`boxes$$,TemplateBox[{"\"United States\"",RowBox[
+{"Entity","[",RowBox[{"\"Country\"",",","\"UnitedStates\""}],"]"}],"\"Entity[\\\"Country\\\", \\\"UnitedStates\\\"]\"","\"country\""},
+"Entity"]],Set[Typeset`allassumptions$$,{{"type" -> "Clash","word" -> "USA","template" -> "Assuming \"USA\" is a country${separator}Use as ${desc} instead","count" -> "2","pulldown" -> "false","default" -> "{\"C\", \"USA\"} -> {\"Country\", \"dflt\"}","Values" -> {{"name" -> "Country","desc" -> "a country","input" -> "{\"C\", \"USA\"} -> {\"Country\"}"},{"name" -> "FileFormat","desc" -> "a file format","input" -> "{\"C\", \"USA\"} -> {\"FileFormat\"}"}}}}],Set[
+Typeset`assumptions$$,{}],Set[Typeset`open$$,{1,2}],Set[Typeset`querystate$$,{}]},
+DynamicBox[ToBoxes[AlphaIntegration`LinguisticAssistantBoxes["",4,Automatic,Dynamic[
+Typeset`query$$],Dynamic[Typeset`boxes$$],Dynamic[Typeset`allassumptions$$],Dynamic[
+Typeset`assumptions$$],Dynamic[Typeset`open$$],Dynamic[Typeset`querystate$$]],StandardForm],
+RuleDelayed[TrackedSymbols,{Typeset`query$$,Typeset`boxes$$,Typeset`allassumptions$$,Typeset`assumptions$$,Typeset`open$$,Typeset`querystate$$}]],
+RuleDelayed[UndoTrackedVariables,{Typeset`open$$}],ExpressionUUID -> "fd3011bf-6d1b-44a4-bfb8-7e8bbddd0d9e"],
+BaseStyle -> {"Deploy"},DeleteWithContents -> True,Editable -> False,SelectWithContents -> True],"]"}]],
+"Input",CellLabel -> "In[2]:= ",ExpressionUUID -> "2c89e6c6-3f97-4ff1-aaba-2eab63dd14c2"],Cell[
+
+"\<\"Entity[\\\"Country\\\", \\\"UnitedStates\\\"]\"\>","Output",CellLabel -> "Out[2]//InputForm= ",
+ExpressionUUID -> "ed69fffd-295c-4d4d-ab0b-5a476792a237"]},Open],ExpressionUUID -> "902ee328-dc30-4b2b-8505-8f3f8d648017"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"CountryData","[","\"UnitedStates\"","]"}]],"Input",CellLabel -> "In[3]:= ",
+ExpressionUUID -> "7f2892d2-f8b8-4bf3-94c6-b41764a299df"],Cell[
+BoxData[TemplateBox[
+{"\"United States\"",RowBox[{"Entity","[",RowBox[{"\"Country\"",",","\"UnitedStates\""}],"]"}],"\"Entity[\\\"Country\\\", \\\"UnitedStates\\\"]\"","\"country\""},
+"Entity"],StandardForm],"Output",CellLabel -> "Out[3]= ",ExpressionUUID -> "b474baeb-aa04-43e5-9efc-47473d94d8d1"]},
+Open],ExpressionUUID -> "d3a74b9c-23ce-4438-8bd6-b9a18fec34a1"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"InputForm","[",RowBox[{"CountryData","[","\"UnitedStates\"","]"}],"]"}]],
+"Input",CellLabel -> "In[4]:= ",ExpressionUUID -> "c558654e-ff10-46ab-a854-a4b37b6c6dac"],Cell[
+
+"\<\"Entity[\\\"Country\\\", \\\"UnitedStates\\\"]\"\>","Output",CellLabel -> "Out[4]//InputForm= ",
+ExpressionUUID -> "056bf116-ebc4-45b7-8291-1fb0d53e54f5"]},Open],ExpressionUUID -> "04de3f3f-0594-4496-8f35-eac3503ad4fc"],Cell[
+BoxData[
+NamespaceBox["LinguisticAssistant",DynamicModuleBox[{Set[Typeset`query$$,"2.6hours"],Set[
+Typeset`boxes$$,TemplateBox[{"2.6","\"h\"","hours","\"Hours\""},"Quantity",SyntaxForm -> Mod]],Set[
+Typeset`allassumptions$$,{}],Set[Typeset`assumptions$$,{}],Set[Typeset`open$$,{1,2}],Set[
+Typeset`querystate$$,{}]},DynamicBox[ToBoxes[AlphaIntegration`LinguisticAssistantBoxes[
+"",4,Automatic,Dynamic[Typeset`query$$],Dynamic[Typeset`boxes$$],Dynamic[Typeset`allassumptions$$],
+Dynamic[Typeset`assumptions$$],Dynamic[Typeset`open$$],Dynamic[Typeset`querystate$$]],
+StandardForm],RuleDelayed[TrackedSymbols,{Typeset`query$$,Typeset`boxes$$,Typeset`allassumptions$$,Typeset`assumptions$$,Typeset`open$$,Typeset`querystate$$}]],
+RuleDelayed[UndoTrackedVariables,{Typeset`open$$}],ExpressionUUID -> "f8d5c940-fcdb-4ecc-b3c2-c3b9fc11dc0b"],
+BaseStyle -> {"Deploy"},DeleteWithContents -> True,Editable -> False,SelectWithContents -> True]],
+"Input",ExpressionUUID -> "91fb16c3-7571-4dca-880f-03744c2afc1e"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"InputForm","[",NamespaceBox["LinguisticAssistant",DynamicModuleBox[
+{Set[Typeset`query$$,"2.6hours]"],Set[Typeset`boxes$$,TemplateBox[{"2.6","\"h\"","hours","\"Hours\""},
+"Quantity",SyntaxForm -> Mod]],Set[Typeset`allassumptions$$,{}],Set[Typeset`assumptions$$,
+{}],Set[Typeset`open$$,{1,2}],Set[Typeset`querystate$$,{}]},DynamicBox[ToBoxes[AlphaIntegration`LinguisticAssistantBoxes[
+"",4,Automatic,Dynamic[Typeset`query$$],Dynamic[Typeset`boxes$$],Dynamic[Typeset`allassumptions$$],
+Dynamic[Typeset`assumptions$$],Dynamic[Typeset`open$$],Dynamic[Typeset`querystate$$]],
+StandardForm],RuleDelayed[TrackedSymbols,{Typeset`query$$,Typeset`boxes$$,Typeset`allassumptions$$,Typeset`assumptions$$,Typeset`open$$,Typeset`querystate$$}]],
+RuleDelayed[UndoTrackedVariables,{Typeset`open$$}],ExpressionUUID -> "b5a4866f-415a-42dc-a949-ccc2f161d43a"],
+BaseStyle -> {"Deploy"},DeleteWithContents -> True,Editable -> False,SelectWithContents -> True],"]"}]],
+"Input",CellLabel -> "In[5]:= ",ExpressionUUID -> "24ca1b10-2678-413b-85e7-37a9a2047ca7"],Cell[
+
+"\<\"Quantity[2.6, \\\"Hours\\\"]\"\>","Output",CellLabel -> "Out[5]//InputForm= ",
+ExpressionUUID -> "53f78964-80e8-4583-baa7-f5d9d6d80205"]},Open],ExpressionUUID -> "74e91e0e-67c8-4a24-be8b-e545b86506a5"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"Quantity","[",RowBox[{"2.6",","," ","\"Hours\""}],"]"}]],
+"Input",CellLabel -> "In[6]:= ",ExpressionUUID -> "b9eebda7-42f5-4d07-ab87-36c51e062569"],Cell[
+BoxData[
+TemplateBox[{"2.6`","\"h\"","hours","\"Hours\""},"Quantity",SyntaxForm -> Mod],StandardForm],
+"Output",CellLabel -> "Out[6]= ",ExpressionUUID -> "52cdeba8-eaa2-4f26-9c2b-9f3ff6928f3b"]},
+Open],ExpressionUUID -> "83e8d3e6-c6b7-4989-b332-0eb267d631d8"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{RowBox[{"Quantity","[",RowBox[{"7.5",","," ","\"Feet\""}],"]"}]," ","+"," ",RowBox[
+{"Quantity","[",RowBox[{"14",","," ","\"cm\""}],"]"}]}]],"Input",CellLabel -> "In[7]:= ",
+ExpressionUUID -> "6da5f17e-bc66-47d3-9c55-d9f68f75b7ec"],Cell[
+BoxData[TemplateBox[
+{"242.6`","\"cm\"","centimeters","\"Centimeters\""},"Quantity",SyntaxForm -> Mod],
+StandardForm],"Output",CellLabel -> "Out[7]= ",ExpressionUUID -> "87f95d78-b34a-46d4-ab4f-52e792fc2ecf"]},
+Open],ExpressionUUID -> "f93394aa-0ab1-4668-82fb-83d686d451be"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{NamespaceBox["LinguisticAssistant",DynamicModuleBox[{Set[Typeset`query$$,
+"7.5ft"],Set[Typeset`boxes$$,TemplateBox[{"7.5","\"ft\"","feet","\"Feet\""},"Quantity",
+SyntaxForm -> Mod]],Set[Typeset`allassumptions$$,{}],Set[Typeset`assumptions$$,{}],Set[
+Typeset`open$$,{1,2}],Set[Typeset`querystate$$,{}]},DynamicBox[ToBoxes[AlphaIntegration`LinguisticAssistantBoxes[
+"",4,Automatic,Dynamic[Typeset`query$$],Dynamic[Typeset`boxes$$],Dynamic[Typeset`allassumptions$$],
+Dynamic[Typeset`assumptions$$],Dynamic[Typeset`open$$],Dynamic[Typeset`querystate$$]],
+StandardForm],RuleDelayed[TrackedSymbols,{Typeset`query$$,Typeset`boxes$$,Typeset`allassumptions$$,Typeset`assumptions$$,Typeset`open$$,Typeset`querystate$$}]],
+RuleDelayed[UndoTrackedVariables,{Typeset`open$$}],ExpressionUUID -> "5558a8f1-52eb-450b-8ab0-0707b43e25b5"],
+BaseStyle -> {"Deploy"},DeleteWithContents -> True,Editable -> False,SelectWithContents -> True],"+",NamespaceBox[
+"LinguisticAssistant",DynamicModuleBox[{Set[Typeset`query$$,"14cm"],Set[Typeset`boxes$$,
+TemplateBox[{"14","\"cm\"","centimeters","\"Centimeters\""},"Quantity",SyntaxForm -> Mod]],Set[
+Typeset`allassumptions$$,{}],Set[Typeset`assumptions$$,{}],Set[Typeset`open$$,{1,2}],Set[
+Typeset`querystate$$,{}]},DynamicBox[ToBoxes[AlphaIntegration`LinguisticAssistantBoxes[
+"",4,Automatic,Dynamic[Typeset`query$$],Dynamic[Typeset`boxes$$],Dynamic[Typeset`allassumptions$$],
+Dynamic[Typeset`assumptions$$],Dynamic[Typeset`open$$],Dynamic[Typeset`querystate$$]],
+StandardForm],RuleDelayed[TrackedSymbols,{Typeset`query$$,Typeset`boxes$$,Typeset`allassumptions$$,Typeset`assumptions$$,Typeset`open$$,Typeset`querystate$$}]],
+RuleDelayed[UndoTrackedVariables,{Typeset`open$$}],ExpressionUUID -> "2c0a0633-c048-463c-86c1-467c7fa147cf"],
+BaseStyle -> {"Deploy"},DeleteWithContents -> True,Editable -> False,SelectWithContents -> True]}]],
+"Input",CellLabel -> "In[8]:= ",ExpressionUUID -> "ef13d95c-cb45-41a1-a2f7-005c97a360b7"],Cell[
+BoxData[
+TemplateBox[{"242.6`","\"cm\"","centimeters","\"Centimeters\""},"Quantity",SyntaxForm -> Mod],
+StandardForm],"Output",CellLabel -> "Out[8]= ",ExpressionUUID -> "0b55e7a8-5e9e-40e2-b714-aee8e9b427f5"]},
+Open],ExpressionUUID -> "24cdc988-721c-4815-bbf4-7dbf4283af10"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"N","@",RowBox[{"UnitConvert","[",RowBox[{RowBox[{"Quantity","[",RowBox[
+{"100",",","\"lb\""}],"]"}],",","\"kg\""}],"]"}]}]],"Input",CellLabel -> "In[12]:= ",
+ExpressionUUID -> "489d70dc-125b-4206-9518-555ebc897408"],Cell[
+BoxData[TemplateBox[
+{"45.359237`","\"kg\"","kilograms","\"Kilograms\""},"Quantity",SyntaxForm -> Mod],
+StandardForm],"Output",CellLabel -> "Out[12]= ",ExpressionUUID -> "f2ee0447-a9ea-4f40-87d4-16ab9d68afec"]},
+Open],ExpressionUUID -> "22aa2734-1c51-453f-a2b4-245f89046847"],Cell[
+CellGroupData[
+{Cell[
+BoxData[RowBox[{"EarthquakeData","[",RowBox[{"Entity","[",RowBox[{"\"Earthquake\"",",","\"nc73666231\""}],"]"}],"]"}]],
+"Input",CellLabel -> "In[10]:= ",ExpressionUUID -> "e7e423f8-16ad-4181-af6b-2a65a895a385"],Cell[
+BoxData[
+RowBox[{"Missing","[","\"NotAvailable\"","]"}],StandardForm],"Output",CellLabel -> "Out[10]= ",
+ExpressionUUID -> "19a3539e-ed84-4197-afe5-3c757317822d"]},Open],ExpressionUUID -> "d4865c76-df00-4f80-ad99-de411e11589b"],Cell[
+TextData[
+{"{\"","type","\":\"","Feature","\",\"","properties","\":{\"","mag","\":","6",".","2",",\"","place","\":\"","38km"," ","W"," ","of"," ","Petrolia",StyleBox[
+RowBox[{","," "}]],"CA","\",\"","time","\":","1640031019100",",\"","updated","\":","1640430417695",",\"","tz","\":","null",",\"","url","\":\"","https://earthquake.usgs.gov/earthquakes/eventpage/nc73666231\",\"detail\":\"https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73666231.geojson\",\"felt\":4372,\"cdi\":7,\"mmi\":6.936,\"alert\":\"yellow\",\"status\":\"reviewed\",\"tsunami\":1,\"sig\":1350,\"net\":\"nc\",\"code\":\"73666231\",\"ids\":\",ew1640031020,nc73666231,at00r4fk16,us6000gdxq,\",\"sources\":\",ew,nc,at,us,\",\"types\":\",dyfi,focal-mechanism,general-text,ground-failure,impact-link,losspager,moment-tensor,nearby-cities,oaf,origin,phase-data,scitech-link,shake-alert,shakemap,\",\"nst\":118,\"dmin\":0.2951,\"rms\":0.22,\"gap\":224,\"magType\":\"mw\",\"type\":\"earthquake\",\"title\":\"M"," ","6",".","2",StyleBox[
+RowBox[{" ","-"," "}]],"38km"," ","W"," ","of"," ","Petrolia",StyleBox[RowBox[{","," "}]],"CA","\"},\"","geometry","\":{\"","type","\":\"","Point","\",\"","coordinates","\":[-","124",".","727",",","40",".","314",",","14",".","85","]},\"","id","\":\"","nc73666231","\"}","\n"}],
+"Text",ExpressionUUID -> "ee0c615a-724e-43cf-ad6c-207503ad967f"]},Open],ExpressionUUID -> "7380c5f1-2ff1-48c7-b368-db18ddfb588e"]},
 Open],ExpressionUUID -> "6fa619df-026e-4497-b32f-65cacf68d3f4"]},StyleDefinitions -> "Default.nb",
-FrontEndVersion -> "13. for Wolfram Cloud 1.61.2 (November 30, 2021)"]
+FrontEndVersion -> "13. for Wolfram Cloud 1.61.2 (November 30, 2021)",TaggingRules -> {"TryRealOnly" -> False}]
