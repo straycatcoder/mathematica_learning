@@ -1,7 +1,7 @@
 # Mahthematia and Jupyter Notebook
 ## List of Jupyter Notebook
 * [ImageStitch.ipynb](ImageStitch.ipynb) -- ImageStitch example. 
-* 
+* [ImageStitch_AerialPhotos.ipynb](ImageStitch_AerialPhotos.ipynb) -- ImageStich application with aerial photos.
 
 ## Jupyter Notebook and Mathematica Setup
 1. Jupyter notebook or Jupyter lab
