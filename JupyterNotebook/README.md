@@ -1,7 +1,7 @@
 # Mahthematia and Jupyter Notebook
-## List of Jupyter Notebook
-* [ImageStitch.ipynb](ImageStitch.ipynb) -- ImageStitch example. 
-* [ImageStitch_AerialPhotos.ipynb](ImageStitch_AerialPhotos.ipynb) -- ImageStich application with aerial photos.
+## List of Jupyter Notebooks and blog posts
+* [ImageStitch.ipynb](ImageStitch.ipynb) -->  [Using Wolfram Engine with Jupyter Notebook](https://mathgis.blogspot.com/2022/03/using-wolfram-engine-with-jupyter.html)
+* [ImageStitch_AerialPhotos.ipynb](ImageStitch_AerialPhotos.ipynb) -->  [ImageStich application with aerial photos](https://mathgis.blogspot.com/2023/01/imagestitch-aerial-photos-and-surprise.html)
 
 ## Jupyter Notebook and Mathematica Setup
 1. Jupyter notebook or Jupyter lab
