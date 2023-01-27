@@ -12,3 +12,5 @@
 ![jupyter1](https://user-images.githubusercontent.com/345948/214909342-d0a0ae4f-1e96-4c64-b70a-8f67de959bcf.png)
 
 ![jupyter2](https://user-images.githubusercontent.com/345948/214909431-e2f638c7-62af-4e38-bf1f-91a708fe45ed.png)
+### Screenshots: Mathematica Engine -- Jupyter Notebook in VScode
+![jupyter3_vscode](https://user-images.githubusercontent.com/345948/215129011-e2b765e4-a375-4dcf-adb8-d9f6cac3cc49.png)
