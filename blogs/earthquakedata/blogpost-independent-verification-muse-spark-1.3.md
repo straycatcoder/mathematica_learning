@@ -3,7 +3,7 @@
 *Comparing Ammon (2017), Claude's follow-up, and ChatGPT's follow-up, with a fresh live re-verification in Wolfram Language*
 
 - **Original:** Charles J. Ammon, ["Don't Study Large Earthquakes with Mathematica's EarthquakeData"](https://sites.psu.edu/charlesammon/2017/05/01/dont-study-large-earthquakes-with-mathematica/), May 1, 2017 (archived as `blogpost.webarchive`)
-- **Follow-up A (Claude):** `blogpost-followup.md` — *"Nine Years Later … Still"*
+- **Follow-up A (Claude):** `blogpost-followup-claude-sonnet-5.md` — *"Nine Years Later … Still"*
 - **Follow-up B (ChatGPT):** `earthquake-data-quality-revisited.md` — *"Revisiting Mathematica's earthquake data…"*
 - **Prior verification:** `blogpost-independent-verification-muse-spark-1.2.md` (generated with **muse-spark-1.2**)
 - **This re-run:** **muse-spark-1.3** (`PI_MODEL=muse-spark-1.3-contributor`, `PI_PROVIDER=meta`), September 4, 2026
@@ -149,7 +149,7 @@ For research, import preferred magnitudes first ([USGS Search](https://earthquak
 ## Sources
 
 1. Ammon (2017), original post + `blogpost.webarchive`.
-2. Follow-up A (Claude), `blogpost-followup.md`; figs `images/`.
+2. Follow-up A (Claude), `blogpost-followup-claude-sonnet-5.md`; figs `images/`.
 3. Follow-up B (ChatGPT), `earthquake-data-quality-revisited.md`; figs `figures/`, `generate_figures.wl`.
 4. Prior verification (muse-spark-1.2), `blogpost-independent-verification-muse-spark-1.2.md`.
 5. This re-run (muse-spark-1.3): `/tmp/verify_1_3.wl` log above; USGS FDSN `eventid`/`count` queries above.

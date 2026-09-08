@@ -1,9 +1,9 @@
 # Don't Study Large Earthquakes with Mathematica's `EarthquakeData` — Nine Years Later, Independently Verified
 
-*Re-running Charles J. Ammon's 2017 test on Wolfram Language 15.0.1 and comparing two 2026 follow-ups (Claude's `blogpost-followup.md` and ChatGPT's `earthquake-data-quality-revisited.md`)*
+*Re-running Charles J. Ammon's 2017 test on Wolfram Language 15.0.1 and comparing two 2026 follow-ups (Claude's `blogpost-followup-claude-sonnet-5.md` and ChatGPT's `earthquake-data-quality-revisited.md`)*
 
 - **Original post:** Charles J. Ammon, ["Don't Study Large Earthquakes with Mathematica's EarthquakeData"](https://sites.psu.edu/charlesammon/2017/05/01/dont-study-large-earthquakes-with-mathematica/), May 1, 2017
-- **Follow-up A (Claude):** `blogpost-followup.md` — *"Nine Years Later, Don't Study Large Earthquakes with Mathematica's `EarthquakeData` — Still"*
+- **Follow-up A (Claude):** `blogpost-followup-claude-sonnet-5.md` — *"Nine Years Later, Don't Study Large Earthquakes with Mathematica's `EarthquakeData` — Still"*
 - **Follow-up B (ChatGPT):** `earthquake-data-quality-revisited.md` — *"Revisiting Mathematica's earthquake data: is the magnitude problem fixed?"*
 - **Independent verification:** Wolfram Language 15.0.1 for Mac OS X ARM (64-bit) (July 2, 2026), local `wolframscript`, plus USGS FDSN API (`earthquake.usgs.gov/fdsnws`)
 - **Date of verification:** September 4, 2026
@@ -229,7 +229,7 @@ Mathematica remains excellent for *analyzing and visualizing* that data — just
 ## Sources
 
 1. Charles J. Ammon, ["Don't Study Large Earthquakes with Mathematica's EarthquakeData"](https://sites.psu.edu/charlesammon/2017/05/01/dont-study-large-earthquakes-with-mathematica/), May 1, 2017 (archived as `blogpost.webarchive`).
-2. Follow-up A — Claude, *Nine Years Later, Don't Study Large Earthquakes...* (`blogpost-followup.md`), re-run on WL 15.0.1 (2026).
+2. Follow-up A — Claude, *Nine Years Later, Don't Study Large Earthquakes...* (`blogpost-followup-claude-sonnet-5.md`), re-run on WL 15.0.1 (2026).
 3. Follow-up B — ChatGPT, *Revisiting Mathematica's earthquake data...* (`earthquake-data-quality-revisited.md`), WL 15.0.1 (2026-09-04).
 4. U.S. Geological Survey, [Magnitude Types](https://www.usgs.gov/programs/earthquake-hazards/magnitude-types); [20 Largest Earthquakes in the World Since 1900](https://www.usgs.gov/programs/earthquake-hazards/science/20-largest-earthquakes-world-1900); FDSN `event` API (counts and `mag`/`magType` per `eventid` above).
 5. USGS Shakemap `official19600522191120_30` etc.; ANSS Comprehensive Earthquake Catalog ([ComCat](https://earthquake.usgs.gov/data/comcat/)).
