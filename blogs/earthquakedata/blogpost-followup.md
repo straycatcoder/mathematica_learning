@@ -80,7 +80,7 @@ wolframscript -code '$Version'
 (* 15.0.1 for Mac OS X ARM (64-bit) (July 2, 2026) *)
 ```
 
-The two comparison charts were generated with `EarthquakeData` output plotted against the reference magnitudes tabulated in the table above (source code: [`images/make_plots.wl`](images/make_plots.wl)).
+The two comparison charts were generated with `EarthquakeData` output plotted against the reference magnitudes tabulated in the table above (source code: [`make_plots.wl`](make_plots.wl)).
 
 ## Source
 
